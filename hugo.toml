@@ -1,7 +1,0 @@
-baseURL = 'https://flopsis.com/'
-languageCode = 'en-us'
-title = 'Reinis Ziediņš'
-theme = 'PaperMod'
-[caches]
-  [caches.images]
-    dir = ':cacheDir/images'
