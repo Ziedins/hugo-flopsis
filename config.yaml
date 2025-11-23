@@ -1,6 +1,7 @@
 baseurl: https://flopsis.com/
 languageCode: en-us
 title: flopsis
+theme: PaperMod
 caches:
   assets:
     dir: :resourceDir/_gen
@@ -25,9 +26,14 @@ caches:
     maxage: -1
 params: 
   homeInfoParams:
-    Title: "Reinis Ziediņš \n Economics and Game Development"
-    Content: "Welcome 🚲 \n\n
-    checkout my projects below"
-    socialIcons: 
+    Title: "Reinis Ziediņš"
+    Email: ziedinslu@gmail.com
+    Content: "Hey there, welcome to my website : \n\n
+
+    Economics 📈  \n\n
+    Development 💻 \n\n
+    Cycling 🚲 \n\n
+    Checkout my content below"
+  socialIcons: 
     - name: github
       url: "https://github.com/Ziedins"
