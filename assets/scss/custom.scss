@@ -1,0 +1,7 @@
+.home-info .container {
+  display: grid;
+  grid-template-columns: 1fr 3fr;
+  img {
+    border-radius: 5%;
+  }
+}
