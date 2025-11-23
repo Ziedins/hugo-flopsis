@@ -1,0 +1,4 @@
+baseURL = 'https://flopsis.com/'
+languageCode = 'en-us'
+title = 'Reinis Ziediņš'
+theme = 'PaperMod'

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Reinis Ziediņš</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Reinis Ziediņš</description>
+    <generator>Hugo -- 0.152.2</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 23 Nov 2025 13:52:49 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tuk, tuk te luis.lu.lv</title>
+      <link>http://localhost:1313/posts/welcome-back-academia/</link>
+      <pubDate>Sun, 23 Nov 2025 13:52:49 +0200</pubDate>
+      <guid>http://localhost:1313/posts/welcome-back-academia/</guid>
+      <description>&lt;p&gt;Nāk divdesmit devītais rudenis&lt;br&gt;
+Esmu atkal durvju ailē pie Raiņa&lt;br&gt;
+Bieži iedvesmots, citreiz izmisis&lt;br&gt;
+Sēž man iekšā īri aizmirsis apātis&lt;/p&gt;
+&lt;p&gt;Nāk ciemos pie apāža gavēnis&lt;br&gt;
+Laipnības uzturēšanos laiku pārkāpis&lt;br&gt;
+Tas stūrgalvīgi apāti ir padzinis&lt;br&gt;
+Pats arī diži ilgāk neuzturējies&lt;/p&gt;
+&lt;p&gt;Durvis neviens nav aizslēdzis&lt;br&gt;
+Kas nākamais krāsni kurinās&lt;br&gt;
+Apātis nav muļķis, mājupceļu zin&lt;br&gt;
+Kurš tagad to šmurguli purinās&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
