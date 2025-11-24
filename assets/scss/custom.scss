@@ -5,3 +5,10 @@
     border-radius: 5%;
   }
 }
+
+@media screen and (max-width: 768px) {
+  .home-info .container {
+    display: block;
+  }
+}
+
