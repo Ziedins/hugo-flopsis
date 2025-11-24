@@ -1,0 +1,1 @@
+.home-info .container{display:grid;grid-template-columns:1fr 3fr}.home-info .container img{border-radius:5%}@media screen and (max-width:768px){.home-info .container{display:block}}
