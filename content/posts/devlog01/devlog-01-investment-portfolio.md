@@ -1,6 +1,6 @@
 +++
 date = '2025-11-26T19:43:22+02:00'
-title = '[Devlog 0.1] Investment Portfolio'
+title = '[Devlog 0.1] Investment Portfolio with Go'
 [params]
   math = true
 +++
