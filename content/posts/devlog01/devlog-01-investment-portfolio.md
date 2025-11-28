@@ -16,8 +16,10 @@ Pretty, Pretty, Shiny, Shiny.
 
 
 ### Goal
-I want to make my own shiny numbers. And so I had a need for something :  
-A tool takes an array of Symbols I've invested in and plots relevant company data onto a excel sheet. Inside Excel, I can play around with any new function I come with - or read in some nerdy investment book - speaks to me. If it does, I can add it to my tool.
+I want to make my own shiny numbers.  
+And so I had a need for something :  
+A tool takes a list of symbols I've invested in and plots relevant company data onto a excel sheet. Inside Excel, I can play around, come up with functions - or find them in some nerdy investment book - and see if it speaks to me.  
+If it does, I can add it to my tool.
 
 ### Plan 0.1
 So what's the stack? I don't know yet, and honestly It doesn't matter.  Golang has been giving me noughty winks for a while now, so I'll go with that one, and learn as I go (double pun not intended).
