@@ -6,7 +6,16 @@
     <description>Recent content on flopsis</description>
     <generator>Hugo -- 0.152.2</generator>
     <language>en-us</language>
-    <lastBuildDate></lastBuildDate>
+    <lastBuildDate>Wed, 26 Nov 2025 19:43:22 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[Devlog 0.1] Investment Portfolio</title>
+      <link>http://localhost:1313/posts/devlog01/devlog-01-investment-portfolio/</link>
+      <pubDate>Wed, 26 Nov 2025 19:43:22 +0200</pubDate>
+      <guid>http://localhost:1313/posts/devlog01/devlog-01-investment-portfolio/</guid>
+      <description>&lt;h3 id=&#34;investing&#34;&gt;Investing&lt;/h3&gt;
+&lt;p&gt;For the past few years, I&amp;rsquo;ve been getting into investing. Modern banking apps make it reasonably easy to get started. In the Baltics, if you have an account with Revolut or Swedbank, you can already invest in publicly traded companies.
+A good starting point is investing in companies who&amp;rsquo;s news you already follow for one reason or another. This way, information wise, you&amp;rsquo;re already ahead of some shmucs who just follows the big trend.&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>

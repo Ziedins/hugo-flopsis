@@ -37,3 +37,13 @@ params:
   socialIcons: 
     - name: github
       url: "https://github.com/Ziedins"
+markup:
+  goldmark:
+    extensions:
+      passthrough:
+        delimiters:
+          block:
+          - - '\['
+            - '\]'
+          - - $$
+            - $$
