@@ -6,8 +6,21 @@
     <description>Recent content in Posts on flopsis</description>
     <generator>Hugo -- 0.152.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 26 Nov 2025 19:43:22 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 01 Dec 2025 15:31:38 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[Game] Tricycle Asia</title>
+      <link>http://localhost:1313/posts/tricycle/tricycle/</link>
+      <pubDate>Mon, 01 Dec 2025 15:31:38 +0200</pubDate>
+      <guid>http://localhost:1313/posts/tricycle/tricycle/</guid>
+      <description>&lt;h3 id=&#34;bevy---game-engine-built-in-rust&#34;&gt;Bevy - game engine built in Rust&lt;/h3&gt;
+&lt;p&gt;The rust programming language has actively growing comunnity around this open source game engine - &lt;a href=&#34;https://bevy.org/&#34;&gt;Bevy&lt;/a&gt;
+It&amp;rsquo;s quite light weight light weight and you can make 2d and even 3d games in it, it&amp;rsquo;s pretty easy to get started thanks to the &lt;a href=&#34;https://bevy.org/learn/quick-start/getting-started/&#34;&gt;Documentation and Examples Section&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;tricycle-asia&#34;&gt;Tricycle Asia&lt;/h3&gt;
+&lt;p&gt;When I was traveling Southeast Asia, I had a point where I had run out of money, but did have accommodation for month in this seniors retirement coastal City in south of Vietnam - Nha Trang.
+Between looking for english teaching jobs, I had a lot of time on my hands, so I started learning Rust and developed this small game in Bevy - &lt;a href=&#34;https://flopsis.itch.io/tricycle&#34;&gt;Tricycle Asia&lt;/a&gt;
+I made my own assets, animations and sound effects, the game is not balanced to be fair, but I think it has its own charm!&lt;/p&gt;</description>
+    </item>
     <item>
       <title>[Devlog 0.1] Investment Portfolio with Go</title>
       <link>http://localhost:1313/posts/devlog01/devlog-01-investment-portfolio/</link>
