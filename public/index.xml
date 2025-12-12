@@ -6,8 +6,20 @@
     <description>Recent content on flopsis</description>
     <generator>Hugo -- 0.152.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 01 Dec 2025 15:31:38 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 12 Dec 2025 17:45:22 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Monopolistic competition</title>
+      <link>http://localhost:1313/posts/economics01/monopolistic_competition/</link>
+      <pubDate>Fri, 12 Dec 2025 17:45:22 +0200</pubDate>
+      <guid>http://localhost:1313/posts/economics01/monopolistic_competition/</guid>
+      <description>&lt;h1 id=&#34;imperfect-competition&#34;&gt;Imperfect competition&lt;/h1&gt;
+&lt;p&gt;Or how it is more commonly reffered to - Monopolistic competition.
+Before it, in economics, there we&amp;rsquo;re only two absolute of describing competition, perfect Utopian competition and the completely uncompetetive monopoly.
+Most economics of the time we&amp;rsquo;re preaching that perfect competition is the only way of handling the market.&lt;/p&gt;
+&lt;h3 id=&#34;edward-hastings-chamberlin&#34;&gt;Edward Hastings Chamberlin&lt;/h3&gt;
+&lt;p&gt;&lt;img alt=&#34;Edward Hastings Chamberlin&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/posts/economics01/edward_c.png&#34;&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>[Game] Tricycle Asia</title>
       <link>http://localhost:1313/posts/tricycle/tricycle/</link>
@@ -29,6 +41,24 @@ I made my own assets, animations and sound effects. The game is not balanced to 
       <description>&lt;h3 id=&#34;investing&#34;&gt;Investing&lt;/h3&gt;
 &lt;p&gt;For the past few years, I&amp;rsquo;ve been getting into investing. Modern banking apps make it reasonably easy to get started. In the Baltics, if you have an account with Revolut or Swedbank, you can already invest in publicly traded companies.
 A good starting point is investing in companies who&amp;rsquo;s news you already follow for one reason or another. This way, information wise, you&amp;rsquo;re already ahead of some shmucs who just follows the big trend.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Tuk, tuk te luis.lu.lv</title>
+      <link>http://localhost:1313/posts/welcome-back-academia/</link>
+      <pubDate>Sun, 23 Nov 2025 13:52:49 +0200</pubDate>
+      <guid>http://localhost:1313/posts/welcome-back-academia/</guid>
+      <description>&lt;p&gt;Nāk divdesmit devītais rudenis&lt;br&gt;
+Esmu atkal durvju ailē pie Raiņa&lt;br&gt;
+Bieži iedvesmots, citreiz izmisis&lt;br&gt;
+Sēž man iekšā īri aizmirsis apātis&lt;/p&gt;
+&lt;p&gt;Nāk ciemos pie apāža gavēnis&lt;br&gt;
+Laipnības uzturēšanos laiku pārkāpis&lt;br&gt;
+Tas stūrgalvīgi apāti ir padzinis&lt;br&gt;
+Pats arī diži ilgāk neuzturējies&lt;/p&gt;
+&lt;p&gt;Durvis neviens nav aizslēdzis&lt;br&gt;
+Kas nākamais krāsni kurinās&lt;br&gt;
+Apātis nav muļķis, mājupceļu zin&lt;br&gt;
+Kurš tagad to šmurguli purinās&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

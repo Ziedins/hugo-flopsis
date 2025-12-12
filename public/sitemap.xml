@@ -2,17 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/posts/tricycle/tricycle/</loc>
-    <lastmod>2025-12-01T15:31:38+02:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2025-12-01T15:31:38+02:00</lastmod>
+    <lastmod>2025-12-12T17:45:22+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/economics01/monopolistic_competition/</loc>
+    <lastmod>2025-12-12T17:45:22+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2025-12-12T17:45:22+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/tricycle/tricycle/</loc>
     <lastmod>2025-12-01T15:31:38+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/devlog01/devlog-01-investment-portfolio/</loc>
     <lastmod>2025-11-26T19:43:22+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/welcome-back-academia/</loc>
+    <lastmod>2025-11-23T13:52:49+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
   </url><url>
