@@ -9,7 +9,7 @@ title = 'CIETUMNIEKS | Janis Ziediņš'
   -Ak mūžš! Katorga!  
   -Un par ko tu sēdēji?  
   -Par to,ka vēljos pusdienot dārgos restorānos, ēst izmeklētu  
-ēdienu, dzīvot lielā, labiekārtotā dzīvoklī...
+ēdienu, dzīvot lielā, labiekārtotā dzīvoklī...  
   -Un tagad?  
   -Par tādu cenu-nē.  
   -Un ko tu tagad darīsi?  
