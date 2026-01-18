@@ -1,6 +1,6 @@
 +++
 date = '2026-01-18T18:47:21+02:00'
-title = 'CIETUMNIEKS | Janis Ziediņš'
+title = 'CIETUMNIEKS | Jānis Ziediņš'
 +++
 
   -Cik ilgi tu tur nosēdēji?  
